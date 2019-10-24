@@ -1,4 +1,4 @@
-# VMs on Local Datastores Dashboard for vRealize Operations 7.5
+# VMs on Local Datastores Dashboard for vRealize Operations 7.5 and 8.0
 ---------
 
 This dashboard can be used to identify VMs located on local datastores.  Use the Migrate VM action in the action menu to svMotion the VM to shared datastores without leaving [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
@@ -16,6 +16,6 @@ This dashboard can be used to identify VMs located on local datastores.  Use the
 
 ## Support
 
-This dashboard requires vRealize Operation 7.5 Advanced or Enterprise edition.
+This dashboard requires vRealize Operation 7.5 or 8.0 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-vms_on_local_datastores/issues) for feedback.
